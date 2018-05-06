@@ -1,0 +1,106 @@
+.submit_btn{
+    -webkit-appearance: button;
+    cursor: pointer;
+    background: red;
+    border: none;
+    color: #fff;
+    width: 146px !important;
+    height: 45px;
+    font-size: 21px;
+    text-align: center;
+    padding: 0;
+    margin: auto;
+}
+.search-btn{
+	    border-radius: 0px;
+    outline: none;
+    background: red;
+    color: white;
+    text-transform: unset;
+    font-size: 14px;
+}
+
+.new-btn{
+	   border-radius: 0px;
+    outline: none;
+    background: red;
+    color: white;
+    text-transform: unset;
+    font-size: 14px;float:right
+}
+
+strong{
+	text-transform: capitalize;
+}
+
+h2,{
+	color: grey !important ;
+}
+
+.w3l-table-info h2, .agile-tables h3 {
+    font-size: 23px !important;
+    color: #2f383e !important;
+    font-family: helvetica !important;
+}
+
+.veg{
+	background: red;width:40px;height:40px;border-radius: 50%;
+}
+.non-veg{
+	background:green;width:40px;height:40px;border-radius: 50%;
+}
+textarea{
+    height:73px !important;
+    resize: none !important;
+}
+
+label{
+	    display: inherit;
+    margin-bottom:10px;
+    width:100%;
+}
+input,select,textarea{
+        display: inherit !important;
+    margin-bottom: 26px !important;
+    width: 100% !important;
+    height: 35px;
+    padding-left: 22px;
+}
+
+.theme-btn{
+        color: #fff;
+    background-color: #ff0000;
+    border-color: #fcb216;
+    border: none;
+    font-size: 18px;
+    font-weight: normal;
+}
+select{
+	height:23px !important;
+    height: 45px !important;
+    padding-bottom: 7px;min-width: 123px;
+        font-size: 14px;
+    text-transform: capitalize;
+    margin-top: 10px;
+    padding-top: 3px;
+    height: 35px !important;
+    border-color: grey;
+}
+button{
+        width: 107px;
+    padding: 3px 10px 4px 9px;
+    border: none;
+    margin-top: 10px;
+}
+
+.input-checkout{
+    border: red 2px solid;
+    margin-bottom: 38px;
+    max-width: 300px;
+    padding: 12px;
+    color: red;
+}
+
+.same-line{
+    display: inline-block;
+}

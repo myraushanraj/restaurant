@@ -1,0 +1,20 @@
+[24-Jan-2018 13:21:07 UTC] PHP Notice:  Undefined variable: setup in /home/monkhub/public_html/eatnary.com/demo1/index.php on line 105
+[24-Jan-2018 13:21:07 UTC] PHP Notice:  Trying to get property of non-object in /home/monkhub/public_html/eatnary.com/demo1/index.php on line 105
+[24-Jan-2018 13:21:07 UTC] PHP Notice:  Undefined variable: setup in /home/monkhub/public_html/eatnary.com/demo1/index.php on line 119
+[24-Jan-2018 13:21:07 UTC] PHP Notice:  Trying to get property of non-object in /home/monkhub/public_html/eatnary.com/demo1/index.php on line 119
+[24-Jan-2018 13:21:07 UTC] PHP Notice:  Undefined variable: setup in /home/monkhub/public_html/eatnary.com/demo1/inc/footer.php on line 9
+[24-Jan-2018 13:21:07 UTC] PHP Notice:  Trying to get property of non-object in /home/monkhub/public_html/eatnary.com/demo1/inc/footer.php on line 9
+[24-Jan-2018 13:21:07 UTC] PHP Notice:  Undefined variable: setup in /home/monkhub/public_html/eatnary.com/demo1/inc/footer.php on line 12
+[24-Jan-2018 13:21:07 UTC] PHP Notice:  Trying to get property of non-object in /home/monkhub/public_html/eatnary.com/demo1/inc/footer.php on line 12
+[24-Jan-2018 13:21:07 UTC] PHP Notice:  Undefined variable: setup in /home/monkhub/public_html/eatnary.com/demo1/inc/footer.php on line 15
+[24-Jan-2018 13:21:07 UTC] PHP Notice:  Trying to get property of non-object in /home/monkhub/public_html/eatnary.com/demo1/inc/footer.php on line 15
+[24-Jan-2018 13:21:07 UTC] PHP Notice:  Undefined variable: setup in /home/monkhub/public_html/eatnary.com/demo1/inc/footer.php on line 18
+[24-Jan-2018 13:21:07 UTC] PHP Notice:  Trying to get property of non-object in /home/monkhub/public_html/eatnary.com/demo1/inc/footer.php on line 18
+[24-Jan-2018 13:21:07 UTC] PHP Notice:  Undefined variable: setup in /home/monkhub/public_html/eatnary.com/demo1/inc/footer.php on line 29
+[24-Jan-2018 13:21:07 UTC] PHP Notice:  Trying to get property of non-object in /home/monkhub/public_html/eatnary.com/demo1/inc/footer.php on line 29
+[24-Jan-2018 13:21:07 UTC] PHP Notice:  Undefined variable: setup in /home/monkhub/public_html/eatnary.com/demo1/inc/footer.php on line 32
+[24-Jan-2018 13:21:07 UTC] PHP Notice:  Trying to get property of non-object in /home/monkhub/public_html/eatnary.com/demo1/inc/footer.php on line 32
+[24-Jan-2018 13:21:07 UTC] PHP Notice:  Undefined variable: setup in /home/monkhub/public_html/eatnary.com/demo1/inc/footer.php on line 35
+[24-Jan-2018 13:21:07 UTC] PHP Notice:  Trying to get property of non-object in /home/monkhub/public_html/eatnary.com/demo1/inc/footer.php on line 35
+[24-Jan-2018 13:21:07 UTC] PHP Notice:  Undefined variable: setup in /home/monkhub/public_html/eatnary.com/demo1/inc/footer.php on line 71
+[24-Jan-2018 13:21:07 UTC] PHP Notice:  Trying to get property of non-object in /home/monkhub/public_html/eatnary.com/demo1/inc/footer.php on line 71

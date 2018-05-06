@@ -1,0 +1,385 @@
+
+header {
+  /*background-size: cover;
+  background-position:center;*/
+
+    position: fixed;
+    width: 100%;
+
+    /*background-color: black;*/
+    opacity: 1;
+    z-index: 12;
+}
+iframe{
+  width: 100% !important;
+}
+.list_style {
+    list-style: none;
+}
+.cart_details {
+    background: #fff;
+    padding: 7px;
+    margin-top: 5px;
+}
+.cart_details3>table>tbody {
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+    text-align: center;
+}
+.cart_details2 {
+    padding: 7px;
+    margin-top: 5px;
+}
+.cart_details2>table>tbody {
+    font-size: 17px;
+    font-family: 'Raleway', sans-serif;
+    color: gray;
+}
+tr td input{
+  width:50px !important;
+  padding: 7px 0px 0px 21px !important; 
+}
+#logo{
+  
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 10px;
+
+}
+
+a{
+  color:inherit !important;
+  text-decoration: none !important;
+}
+/*#home-btn{
+  background: red;color: white;border-radius: 12px;width:120px;    padding: 6px 23px;
+}*/
+ul.menu-ul{
+      height: 26px;    font-size: 15px;
+}
+
+ul.menu-ul>li{margin-right: 12px;
+color: white !important;
+  display: inline-block;
+}
+div#salad{
+    width: 100%;background-repeat: no-repeat;
+    /*width: 100vw;*/
+/* position: relative;
+*/    margin: 0px;
+    height: 39vw;
+
+    /*opacity: 0.7;*/
+
+}
+div#cup{
+    background :url(https://static1.squarespace.com/static/58d863bfdb29d62600f738f8/t/598207f359cc68ce1875eae2/1501693940409/coffeemugsolo.png);
+    width: 100%;
+    transform: scaleX(-1);
+    margin: 0px;
+    height: 800px;
+}
+div#pancake{
+    content:url(https://www.goodnessdirect.co.uk/blog/wp-content/uploads/2015/02/pancakes-banana.jpg);
+    width: 100%;
+    /*width: 100vw;*/
+    /*opacity: 0.7;*/
+    height: 800px;  
+    margin: 0px;
+    padding: 0px;
+}
+div#food1{
+    content:url(https://www.burgerim.com/wp-content/uploads/2017/04/Crispy-Chicken-Sandwich.jpg);
+    width: 100%;
+    /*width: 100vw;*/
+    /*opacity: 0.7;*/
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    height: 300px;
+}
+div#food2{
+    content:url(http://lagunabeachbest.com/wp-content/uploads/2014/09/El-Ranchito-Fried-Ice-Cream-520.jpg);
+    width: 100%;
+    /*width: 100vw;*/
+    /*opacity: 0.7;*/
+    margin: 0px;
+    padding: 0px;
+    height: 300px;
+}
+div#food3{
+     content:url(https://greatindianfood.in/wp-content/uploads/2016/08/central-tiffin-room-1024x576-1024x585.jpg);
+     width: 100%;
+     /*width: 100vw;*/
+     /*opacity: 0.7;*/
+     margin: 0px;
+     padding: 0px;
+     height: 300px;
+ }
+div#food4{
+      content:url(https://www.skymetweather.com/themes/skymet/images/gallery/toplists/Top-Not-to-miss-food-items-in-Monsoon/4.jpg);
+      width: 100%;
+      /*width: 100vw;*/
+      /*opacity: 0.7;*/
+      margin: 0px;
+      padding: 0px;
+      height: 300px;
+  }
+div#food5{
+       content:url(https://greatindianfood.in/wp-content/uploads/2016/11/placeoforigin.in4_-1024x585.jpg);
+       width: 100%;
+       /*width: 100vw;*/
+       /*opacity: 0.7;*/
+       margin: 0px;
+       padding: 0px;
+       height: 300px;
+   }
+div#food6   {
+        content:url(http://i2.cdn.turner.com/money/dam/assets/140818085300-zany-food-cheeseburger-pizza-crust-1024x576.jpg);
+        width: 100%;
+        /*width: 100vw;*/
+        /*opacity: 0.7;*/
+        margin: 0px;
+        padding: 0px;
+        height: 300px;
+    }
+    div#inputt{
+      position: absolute;
+      padding-left: 50px: 
+      margin-left: 50px;
+    }
+   h1{
+    position: absolute;
+     top: 200px; 
+   left: 0; 
+   /*width: 100%;*/
+       height: 234px;
+    width: 450px;
+    position: absolute;
+    /*background: red;*/
+    /*z-index: 333333333333333333333333333; */
+    margin-left: 116px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+   }
+   .image{
+   width: 100%;
+   background-repeat: no-repeat;
+   position: relative;
+    background-position: 50% 50%;
+    background-clip: padding-box;   
+   }
+   #layer{
+     width: 100%;
+    left: 0px;
+    height: 100%;
+    position: absolute;
+    background: rgba(0,0,0,0.3);
+   }
+  .layer2{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+
+  }
+   #learnmake{
+     top: 47vh;
+    left: 3%;
+    /* width: 100%; */
+    /* height: 234px; */
+    /* width: 450px; */
+    /* background: red; */
+    position: absolute;
+    /* background: red; */
+    z-index: 33333333333333;
+    margin-left: 116px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    padding: 0px;
+   }
+
+
+   input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.container {
+    border-radius: 5px;
+    padding: 20px;}
+
+  .chapter {
+    max-width: 400px;
+    text-align: center;
+    margin-left: 250px;
+} 
+.menu-body {
+  max-width: 680px;
+  margin: 0 auto;
+  display: block;
+  color: rgb(92, 92, 92);
+}
+ 
+.menu-section {
+  margin-bottom: 80px;
+}
+ 
+.menu-section-title {
+  font-family: georgia;font-size: 25px;
+  display: block;
+  font-weight:normal;
+  margin: 20px 0; 
+  text-align: Center;
+}
+ 
+.menu-item {
+  margin:0;
+  font-size: 18px;
+}
+ 
+.menu-item-name{
+  font-family: helvetica;
+  font-weight: bold;
+  border-bottom: 2px dotted rgb(213, 213, 213);
+}
+ 
+.menu-item-description {
+  font-style: italic;
+  font-size: .9em;
+  line-height: 1.5em;
+}
+ 
+.menu-item-price{
+  float: right;
+  font-weight: bold;
+  font-family: arial;
+  margin-top: -22px;
+}
+
+
+ul li a {
+  font-weight: 200;
+  /*background: #813434;*/
+  &:hover {
+    color: #fff;
+    background: #e6764e;
+    -webkit-transition: all .2s ease-in-out;
+       -moz-transition: all .2s ease-in-out;
+        -ms-transition: all .2s ease-in-out;
+         -o-transition: all .2s ease-in-out;
+            transition: all .2s ease-in-out;
+  }
+  color: #fff;
+  text-decoration: none;}
+
+ul li.active a {
+  background: #ff4040;
+      border-radius: 43px;
+    padding: 8px;    }
+  ul li {
+  list-style: none;}
+
+
+.cart-add-menu{
+}
+/* == foote wala css */
+.footer {
+    margin-top: 14px;
+   
+    background:#000;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    color:#fff;
+    text-align: center;
+    padding: 0;
+}
+.footer_wrap{
+  background: #000000b0;
+  padding-top:20px; 
+}
+.footer_para{
+  text-align: left;
+    font-weight: normal;
+    font-size: 15px;
+    color: #9a9898;
+}
+
+.footer>a{
+
+    color: inherit !important;
+    text-transform: none !important;
+    text-decoration: none;
+
+}
+
+.about-text{
+     text-align: right;
+    font-size: 20px;
+    margin-right: 19px;
+}
+
+
+.menu-div{
+  width: 55%;
+    /* background: black; */
+    float: left;
+    margin-left: 38%;
+    height: 68px;
+    margin-top: 9px;
+}
+
+.cart_details3 {
+    padding: 7px;text-align: center;
+    margin-top: 5px;
+
+}
+.cart_detail {
+    width:78%;min-width: 300px;
+}
+.cart_details {
+    background: #fff;
+    padding: 7px;
+    margin-top: 5px;
+}
+
+.saved_order_wrap {
+  padding-top: 100px;
+    margin-bottom: 80px;
+}
+.modal-content {
+    position: relative;
+    margin-top: 170px !important;
+}
+
+.faq-top{
+  padding-top: 123px;
+}
+.faq-title{
+      font-size: 23px;
+    font-style: italic;
+    text-align: center;
+}
+
+.italic{
+      font-style: italic
+}
